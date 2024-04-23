@@ -2,11 +2,13 @@ body {
     background-color: #101010;
      }
 h1 {
+font-size: 80px;
 color: #ffffff;
 font-family: Tahoma,arial;
 text-align: center;
     }
 p {
+    font-size: 40px;
     color: #ffffff;
     font-family: Tahoma,arial;
     text-align:center;
@@ -17,7 +19,7 @@ div {
     border-radius: 8px;
     }
 #mexiserver {
-            height: 500px;
+            height: 800px;
             margin: auto;
             }
 .clima {
